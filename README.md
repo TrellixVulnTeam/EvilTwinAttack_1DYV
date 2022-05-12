@@ -41,7 +41,7 @@ sudo python3 attack.py‏
 
               sudo python3 attack.py  
               
-**To run the attack:**   
+**To run the defence:**   
 
               sudo python3 defence.py
        
