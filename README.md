@@ -41,6 +41,10 @@ https://user-images.githubusercontent.com/73065095/168134960-ebaff7c1-dd5e-4e82-
 
 ### Pictures that show what appears to the victim in the attack:
 
+<img src="Images/WhatsApp Image 2022-05-12 at 20.16.15.jpeg" >
+ <img src="Images/WhatsApp Image 2022-05-12 at 20.16.16.jpeg" >
+<img src="Images/WhatsApp Image 2022-05-12 at 20.16.17.jpeg" >
+
 
 
 
