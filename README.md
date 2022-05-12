@@ -12,6 +12,25 @@ An evil twin attack takes place when an attacker sets up a fake Wi-Fi access poi
 ----------------------------------------
 ###  attack:
 
+### Steps to build an Evil Twin attack:
+
+• Scan WLAN in the environment for one minute and view the various networks discovered.
+
+• Select the network on which to attack.
+
+• Presenting customers of the network on which the attack is taking place.
+
+• Selecting a victim and performing a Twin-Evil attack.
+
+• After choosing the victim what do you do?
+
+o Disconnect the victim from the existing network / disable the good twin using SCAPY.
+
+o After the victim connects to the fake network, the Evil Twin network is activated and Portal Captive is activated.
+
+o When connecting to the malicious network the victim is asked to enter the password of his network.
+
+o After the victim enters the password, we as attackers parallel the password to the file we created as VictimsPassword.txt
 
 
 
