@@ -65,7 +65,6 @@ https://www.yeahhub.com/create-fake-ap-dnsmasq-hostapd-kali-linux/
 
 
 
-
 :pushpin:
 _Project participants:_
 ----------------------------------------
