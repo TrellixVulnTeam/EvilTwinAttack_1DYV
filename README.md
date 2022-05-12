@@ -18,11 +18,11 @@ An evil twin attack takes place when an attacker sets up a fake Wi-Fi access poi
 
 • Select the network on which to attack.
 
-• Scanning for clients in the network for one minute.
+• Scan for clients in the network for one minute.
 
-• Presenting customers of the network on which the attack is taking place.
+• Present customers of the network on which the attack is taking place.
 
-• Selecting a victim and performing a Evil-Twin attack.
+• Select a victim and perform an Evil-Twin attack.
 
 • After choosing the victim what do you do?
 
@@ -30,7 +30,7 @@ o Disconnect the victim from the existing network / disable the good twin using 
 
 o After the victim connects to the fake network, the Evil Twin network is activated and Portal Captive is activated.
 
-o When connecting to the malicious network the victim is asked to enter the password of his network.
+o When connecting to the malicious network, the victim is asked to enter the password of his network.
 
 o After the victim enters the password, we as attackers parallel the password to the file we created as victimsPassword.txt
 
@@ -50,8 +50,16 @@ https://user-images.githubusercontent.com/73065095/168134960-ebaff7c1-dd5e-4e82-
 ----------------------------------------
  _Second part_
 ----------------------------------------
-###  The defense phase:
+###  defense:
+The best defense is an attack!
 
+### Steps to build an Evil Twin attack:
+
+• Choose the interface that you want to change to monitor mode.
+
+• Sniff for access points. 
+
+• Scan whether there is a network with the same name as the network you are connected to, and if so - attack it with deauth attack.
 
 ---------------------------------------------------------------------------------------------------- 
 :books:The links we used::point_down:
