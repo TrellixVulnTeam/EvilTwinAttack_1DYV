@@ -18,9 +18,11 @@ An evil twin attack takes place when an attacker sets up a fake Wi-Fi access poi
 
 • Select the network on which to attack.
 
+• Scanning for clients in the network for one minute.
+
 • Presenting customers of the network on which the attack is taking place.
 
-• Selecting a victim and performing a Twin-Evil attack.
+• Selecting a victim and performing a Evil-Twin attack.
 
 • After choosing the victim what do you do?
 
@@ -30,7 +32,7 @@ o After the victim connects to the fake network, the Evil Twin network is activa
 
 o When connecting to the malicious network the victim is asked to enter the password of his network.
 
-o After the victim enters the password, we as attackers parallel the password to the file we created as VictimsPassword.txt
+o After the victim enters the password, we as attackers parallel the password to the file we created as victimsPassword.txt
 
 
 
