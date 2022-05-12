@@ -18,3 +18,13 @@ https://www.thepythoncode.com/article/force-a-device-to-disconnect-scapy
 
 
 https://www.yeahhub.com/create-fake-ap-dnsmasq-hostapd-kali-linux/
+
+
+----------------------------------------
+
+
+:pushpin:
+_Project participants:_
+----------------------------------------
+Rawan shareef ,Daniel Okavi ,Ayala Bouhnik, יצחק
+
