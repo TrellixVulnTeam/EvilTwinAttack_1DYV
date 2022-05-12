@@ -14,7 +14,7 @@ An evil twin attack takes place when an attacker sets up a fake Wi-Fi access poi
 
 ### Steps to build an Evil Twin attack:
 
-• Scan WLAN in the environment for one minute and view the various networks discovered.
+• Scan WLAN in the environment for Half a minute and view the various networks discovered.
 
 • Select the network on which to attack.
 
