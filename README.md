@@ -35,6 +35,14 @@ o When connecting to the malicious network, the victim is asked to enter the pas
 o After the victim enters the password, we as attackers parallel the password to the file we created as victimsPassword.txt
 
 
+sudo python3 attack.py‏
+
+**To run the attack:**
+
+              sudo python3 attack.py        
+              sudo python3 defence.py
+       
+
 
 ### Video showing the stages of the attack:
 https://user-images.githubusercontent.com/73065095/168134960-ebaff7c1-dd5e-4e82-b547-f10fd70d7709.mov
