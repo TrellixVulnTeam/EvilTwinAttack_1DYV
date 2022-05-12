@@ -76,5 +76,5 @@ https://www.yeahhub.com/create-fake-ap-dnsmasq-hostapd-kali-linux/
 :pushpin:
 _Project participants:_
 ----------------------------------------
-Rawan shareef ,Daniel Okavi ,Ayala Bouhnik,Yitzchak Maimon
+Rawan shareef ,Daniel Okavi ,Ayala Bouhnik-Gelbord ,Yitzchak Maimon
 
