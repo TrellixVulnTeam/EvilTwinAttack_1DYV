@@ -1,0 +1,4 @@
+sudo ifconfig $1 down
+sudo iwconfig $1 mode monitor
+sudo iwconfig $1 channel $2
+sudo ifconfig $1 up
